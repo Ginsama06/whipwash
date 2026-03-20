@@ -17,7 +17,7 @@ export function Services() {
         "24-48 hour turnaround",
       ],
       image:
-        "https://images.unsplash.com/photo-1764120656278-994739787d38?auto=format&fit=crop&w=1080&q=80",
+        "https://www.ring2wash.com.au/cdn/shop/files/Wash_-Dry-_-Fold-Ring2Wash-39442185.png?v=1709699503",
     },
     {
       icon: Shirt,
